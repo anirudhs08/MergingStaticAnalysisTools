@@ -1,0 +1,10 @@
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe.config
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.pdb
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.exe
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.pdb
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe.CodeAnalysisLog.xml
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe.lastcodeanalysissucceeded
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csprojAssemblyReference.cache
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csproj.CoreCompileInputs.cache
+C:\Users\320053936\source\repos\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csprojResolveAssemblyReference.cache
