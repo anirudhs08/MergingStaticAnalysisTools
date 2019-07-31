@@ -1,0 +1,65 @@
+Types of issues
+PractiseApp
+Class2.cs
+1
+To use free version of PVS-Studio, source code files are required to start with a special comment.
+
+
+
+
+PractiseApp
+Class1.cs
+1
+To use free version of PVS-Studio, source code files are required to start with a special comment.
+
+
+
+
+UnitTestProject1
+UnitTest1.cs
+1
+To use free version of PVS-Studio, source code files are required to start with a special comment.
+
+
+
+
+PractiseApp
+AssemblyInfo.cs
+1
+To use free version of PVS-Studio, source code files are required to start with a special comment.
+
+
+
+
+UnitTestProject1
+AssemblyInfo.cs
+1
+To use free version of PVS-Studio, source code files are required to start with a special comment.
+
+
+
+
+PractiseApp
+AbstractClasses.cs
+29
+Expression 'hrs > 2' is always true.
+
+
+
+
+PractiseApp
+AbstractClasses.cs
+26
+Hours component of 'span' is used, which does not represent full time interval. Possibly 'TotalHours' value was intended instead.
+
+
+
+
+PractiseApp
+Program.cs
+63
+Consider inspecting the 'WriteAllText' method call. Defining an absolute path to the file or directory is considered a poor style.
+
+
+
+

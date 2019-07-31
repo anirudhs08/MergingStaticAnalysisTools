@@ -1,0 +1,157 @@
+% of commented out codes
+60.71%
+
+********RULES VIOLATED SUMMARY********
+Number of rules violated 
+8
+
+              
+Number of issues due to the rules violated	
+16
+1.Violation
+Rule violated: Class with no descendant should be sealed if possible
+Medium issue on: CaseStudy1.Program
+
+
+
+2.Violation
+Rule violated: Class with no descendant should be sealed if possible
+Medium issue on: CaseStudy1.Class1+Student
+
+
+
+3.Violation
+Rule violated: Class with no descendant should be sealed if possible
+Medium issue on: CaseStudy1.Class1+Teacher.Teach()
+
+
+
+4.Violation
+Rule violated: Methods should be declared static if possible
+Medium issue on: CaseStudy1.Class1+Student.Learn()
+
+
+
+5.Violation
+Rule violated: Methods should be declared static if possible
+Medium issue on: CaseStudy1.Program.printHello()
+
+
+
+6.Violation
+Rule violated: Methods should be declared static if possible
+Medium issue on: CaseStudy1.Class1.Main(String[])
+
+
+
+7.Violation
+Rule violated: Potentially Dead Methods
+Medium issue on: CaseStudy1.Class1
+
+
+
+8.Violation
+Rule violated: Potentially Dead Types
+Medium issue on: CaseStudy1.Class1
+
+
+
+9.Violation
+Rule violated: Non-static classes should be instantiated or turned to static
+Medium issue on: CaseStudy1.Class1+Student
+
+
+
+10.Violation
+Rule violated: Potentially Dead Types
+Medium issue on: CaseStudy1.Class1+Teacher.Teach()
+
+
+
+11.Violation
+Rule violated: Potentially Dead Methods
+Medium issue on: CaseStudy1.Class1+Student.Learn()
+
+
+
+12.Violation
+Rule violated: Potentially Dead Methods
+Medium issue on: CaseStudy1.Program.printHello()
+
+
+
+13.Violation
+Rule violated: Methods name should begin with an Upper character
+Low issue on: CaseStudy1.Class1
+
+
+
+14.Violation
+Rule violated: A stateless class or structure might be turned into a static type
+Low issue on: CaseStudy1.Class1+Teacher.Teach()
+
+
+
+15.Violation
+Rule violated: Avoid public methods not publicly visible
+Low issue on: CaseStudy1.Class1+Student.Learn()
+
+
+
+16.Violation
+Rule violated: Avoid public methods not publicly visible
+Statistics
+
+
+
+********QUALITY GATES SUMMARY********
+
+Quality Gates Passed
+
+QualityGateRule1
+Quality Gate Pass:
+     Percentage Coverage
+ • 
+
+QualityGateRule2
+Quality Gate Pass:
+     Percentage Coverage on New Code
+ • 
+
+QualityGateRule3
+Quality Gate Pass:
+     Percentage Coverage on Refactored Code
+ • 
+
+QualityGateRule4
+Quality Gate Pass:
+     Blocker Issues
+ • 
+
+QualityGateRule5
+Quality Gate Pass:
+     Critical Issues
+ • 
+
+QualityGateRule6
+Quality Gate Pass:
+     New Blocker / Critical / High Issues
+ • 
+
+QualityGateRule7
+Quality Gate Pass:
+     Critical Rules Violated
+ • 
+
+Quality Gates Failed
+
+QualityGateRule1
+Quality Gate Fail:
+    Percentage Debt
+ • 
+
+QualityGateRule2
+Quality Gate Fail:
+    Debt Rating per Namespace
+ • 
+

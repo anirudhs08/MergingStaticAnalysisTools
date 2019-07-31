@@ -1,0 +1,352 @@
+Types of issues
+1    WARNING:Constraints Violations
+Namespace does not correspond to file location
+
+
+
+2    SUGGESTION:Potential Code Quality Issues
+Class is never instantiated: Non-private accessibility
+
+
+
+3    SUGGESTION:Common Practices and Code Improvements
+Join local variable declaration and assignment
+
+
+
+4    SUGGESTION:Common Practices and Code Improvements
+Member can be made protected: Non-private accessibility
+
+
+
+5    WARNING:Potential Code Quality Issues
+Possible 'System.InvalidCastException' in foreach loop
+
+
+
+6    WARNING:Redundancies in Code
+Redundant using directive
+
+
+
+7    WARNING:Common Practices and Code Improvements
+String.IndexOf is culture-specific: String.IndexOf(string) is culture-specific
+
+
+
+8    WARNING:Common Practices and Code Improvements
+String.IndexOf is culture-specific: String.IndexOf(string, int) is culture-specific
+
+
+
+9    SUGGESTION:Common Practices and Code Improvements
+Local variable has too wide declaration scope
+
+
+
+10    WARNING:Potential Code Quality Issues
+Auto-property accessor is never used: Non-private accessibility
+
+
+
+11    SUGGESTION:Redundancies in Symbol Declarations
+Type or member is never used: Non-private accessibility
+
+
+
+12    WARNING:Redundancies in Symbol Declarations
+Type or member is never used: Private accessibility
+
+
+
+13    WARNING:Redundancies in Symbol Declarations
+Unused parameter: Private accessibility
+
+
+
+14    WARNING:Redundancies in Symbol Declarations
+Unused local variable
+
+
+
+15    WARNING:Compiler Warnings
+Unused local variable
+
+
+
+1  File="PractiseApp\AbstractClasses.cs"
+Line="5"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+2  File="PractiseApp\AbstractClasses.cs"
+Line="6"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+3  File="PractiseApp\AbstractClasses.cs"
+Line="7"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+4  File="PractiseApp\AbstractClasses.cs"
+Line="8"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+5  File="PractiseApp\AbstractClasses.cs"
+Line="14"
+Message="Auto-property accessor is never used"
+
+
+
+6  File="PractiseApp\AbstractClasses.cs"
+Line="15"
+Message="Accessor 'ParkingTime.get' can be made protected"
+
+
+
+7  File="PractiseApp\AbstractClasses.cs"
+Line="36"
+Message="Class 'AbstractClasses' is never instantiated"
+
+
+
+8  File="PractiseApp\AbstractClasses.cs"
+Line="38"
+Message="Parameter 'args' is never used"
+
+
+
+9  File="PractiseApp\Class1.cs"
+
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+10  File="PractiseApp\Class1.cs"
+Line="2"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+11  File="PractiseApp\Class1.cs"
+Line="3"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+12  File="PractiseApp\Class1.cs"
+Line="4"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+13  File="PractiseApp\Class1.cs"
+Line="5"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+14  File="PractiseApp\Class1.cs"
+Line="6"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+15  File="PractiseApp\Class1.cs"
+Line="7"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+16  File="PractiseApp\Class1.cs"
+Line="9"
+Message="Namespace does not correspond to file location, should be: 'PractiseApp'"
+
+
+
+17  File="PractiseApp\Class1.cs"
+Line="11"
+Message="Class 'Class1' is never used"
+
+
+
+18  File="PractiseApp\Program.cs"
+Line="6"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+19  File="PractiseApp\Program.cs"
+Line="7"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+20  File="PractiseApp\Program.cs"
+Line="10"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+21  File="PractiseApp\Program.cs"
+Line="11"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+22  File="PractiseApp\Program.cs"
+Line="17"
+Message="Class 'Program' is never used"
+
+
+
+23  File="PractiseApp\Program.cs"
+Line="19"
+Message="Method 'Main' is never used"
+
+
+
+24  File="PractiseApp\Program.cs"
+Line="19"
+Message="Parameter 'args' is never used"
+
+
+
+25  File="PractiseApp\Program.cs"
+Line="58"
+Message="Local variable 'client' is never used"
+
+
+
+26  File="PractiseApp\Program.cs"
+Line="67"
+Message="Possible 'System.InvalidCastException' when casting from HtmlAgilityPack.HtmlNode to HtmlAgilityPack.HtmlTextNode"
+
+
+
+27  File="PractiseApp\Program.cs"
+Line="73"
+Message="Join declaration and assignment"
+
+
+
+28  File="PractiseApp\Program.cs"
+Line="73"
+Message="Join declaration and assignment"
+
+
+
+29  File="PractiseApp\Program.cs"
+Line="73"
+Message="Local variable 'start1' is never used"
+
+
+
+30  File="PractiseApp\Program.cs"
+Line="73"
+Message="Local variable 'end1' is never used"
+
+
+
+31  File="PractiseApp\Program.cs"
+Line="77"
+Message="String.IndexOf(string) is culture-specific"
+
+
+
+32  File="PractiseApp\Program.cs"
+Line="84"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+33  File="PractiseApp\Program.cs"
+Line="85"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+34  File="PractiseApp\Program.cs"
+Line="89"
+Message="String.IndexOf(string) is culture-specific"
+
+
+
+35  File="PractiseApp\Program.cs"
+Line="95"
+Message="Local variable 'indexOfRule' can be declared in inner scope"
+
+
+
+36  File="PractiseApp\Program.cs"
+Line="96"
+Message="Local variable 'firstNewLine' can be declared in inner scope"
+
+
+
+37  File="PractiseApp\Program.cs"
+Line="97"
+Message="Local variable 'secondNewLine' can be declared in inner scope"
+
+
+
+38  File="PractiseApp\Program.cs"
+Line="100"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+39  File="PractiseApp\Program.cs"
+Line="101"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+40  File="PractiseApp\Program.cs"
+Line="102"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+41  File="PractiseApp\Program.cs"
+Line="118"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+42  File="PractiseApp\Program.cs"
+Line="121"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+43  File="PractiseApp\Program.cs"
+Line="135"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+44  File="PractiseApp\Program.cs"
+Line="138"
+Message="String.IndexOf(string, int) is culture-specific"
+
+
+
+45  File="PractiseApp\Properties\AssemblyInfo.cs"
+Line="2"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
+AssemblyInfo.cs"
+Line="2"
+Message="Using directive is not required by the code and can be safely removed"
+
+
+
