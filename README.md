@@ -39,3 +39,5 @@ A small note on all the tools used:
 3)	NDepend
 	a.	Ndepend is a visual studio extension for static code analysis
 	b.	Generates a very interactive html report which will help the user debug various issues.
+	
+Final output: A merged report
